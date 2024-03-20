@@ -1,0 +1,5 @@
+node_modules
+cypress/support/
+cypress/fixtures/
+todo.cy.js
+e2e/1-getting-started
